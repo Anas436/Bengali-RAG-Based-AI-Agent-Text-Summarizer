@@ -1,5 +1,3 @@
-# QA_assesment
-
 # RAG-Based QA Chatbot(English) Using SQuAD_v2 Data  
 
 ## Project Overview  
