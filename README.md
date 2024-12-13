@@ -200,13 +200,4 @@ The retrieved news articles are summarized to provide a concise overview. The su
 
 All ideas for this project were conceptualized and implemented by the repository author. While some computational limitations were encountered, the project demonstrates the feasibility of combining embedding-based search and summarization for a Bengali news bot.
 
----
-
-## **Contact**
-For questions or suggestions, feel free to reach out:
-- **Email**: [csebrur.hasinmanjare34@gmail.com]
-- **GitHub**: [https://github.com/Hasin-Al]
-
----
-
 
